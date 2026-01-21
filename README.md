@@ -134,7 +134,7 @@ The dataset includes:
 ---
 
 ## 📷 Dashboard Preview
-![Overview Dashboard](images.png)
+![Overview Dashboard](image.png)
 ![Policy Analysis Dashboard](image2.png)
 ![Revenue & Profit/Loss Dashboard](image3.png)
 ![Claims Dashboard](image4.png)
