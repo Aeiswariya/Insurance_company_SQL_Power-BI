@@ -134,7 +134,7 @@ The dataset includes:
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](image.png)
+![Dashboard Screenshot](image.png)(image2.png)(image3.png)(image4.png)
 
 ---
 
